@@ -1,2 +1,3 @@
 # visitors-book
-A Plain JavaScript Visitors app for security guard with NodeJS .
+
+This is no longer a simple app, but a nodejs app.
